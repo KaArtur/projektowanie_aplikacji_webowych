@@ -1,0 +1,44 @@
+.container {
+    width: 50%;
+    height: 500px;
+    border: 1px solid black;
+    margin: 20px auto;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.box {
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+}
+
+.relative {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.relative-container {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}
+
+.sticky {
+    position: sticky;
+    top: 20px;
+}
+

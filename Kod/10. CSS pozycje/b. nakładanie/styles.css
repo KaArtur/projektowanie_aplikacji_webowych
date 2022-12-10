@@ -1,0 +1,30 @@
+#box1 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: orange;
+    z-index: 3;
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: yellow;
+    top: 100px;
+    left: 100px;
+    z-index: 2;
+
+}
+
+#box3 {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color: green;
+    top: 50px;
+    left: 200px
+    z-index: 1;
+
+
+}
