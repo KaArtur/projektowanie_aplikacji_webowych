@@ -1,0 +1,40 @@
+/*
+* {
+    border: 3px solid red;
+}*/
+
+/*
+div {
+    border: 3px solid red;
+
+}*/
+
+/*
+.boxes {
+    border: 3px solid red;
+}
+*/
+
+/*
+#box-one {
+    border: 3px solid red;
+}*/
+
+/*#big-box > div {
+    border: 3px solid red;
+
+}*/
+
+/*
+#big-box div {
+    border: 3px solid red;
+}*/
+/*
+
+#box-two + div {
+    border: 3px solid red;
+}*/
+
+#box-two ~ div {
+    border: 3px solid red;
+}

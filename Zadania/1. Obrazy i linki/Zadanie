@@ -1,0 +1,9 @@
+Zadanie 1
+
+1) Stwórz trzy pliki html (index.html, page.html, site.html) w folderze pages
+2) Umieść link w pliku index.html do pliku page.html nazwij go "Page Link"
+3) Umieść link w pliku index.html do strony google.com i ustaw aby otwierał się w nowej karcie nazwij "Google"
+4) W pliku page.html umieść obraz image.jpeg z folderu pages
+5) W pliku site.html umieść obraz image2.jpeg z folderu img. Zamieść link aby po kliknięciu w obraz
+   przenosił do strony z pliku index.html
+

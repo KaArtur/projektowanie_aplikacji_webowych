@@ -1,0 +1,21 @@
+Zadanie 5
+
+1. Stwórz formularz z polami i przyciskami:
+- input - "Liczba wierszy"
+- input - "Liczba kolumn"
+- przycisk "Stwórz"
+- przycisk "Wyczyść"
+
+2. Po wpisaniu ilości wierszy, kolumn i wciśnieciu przycisku Stwórz tworzy się siatka kwadratów - ilość w zależności
+od podanych wartości (wielkość oraz kolor kwadratów dowolna).
+
+3. Po wciśnieciu przycisku Wyczyść usuwane są wszystkie wytworzone kwadraty. (funkcja .replaceChildren() może pomóc w tym).
+
+4. Dodaj do formularza Wybór koloru tworzonych kwadratów (select - option z opcjami: czerowny, zielony, niebieski).
+
+5. Po wybraniu odpowiedniego koloru i wciśnięciu przycisku Stwórz od teraz kwadraty tworzone są w wybranych kolorach.
+
+6. Dodaj walidację po wciśnięciu przycisku Stwórz - wartości liczby wieszy i kolumn powinny mieścic się w zakresie 1-10.
+Jeżeli wartości są po za zakresem wyświetl wiadomość i przerwij działanie.
+
+Wygląd przykładowego rozwiązania znajduje się w plikach przykład_1.png, przykład_2.png, przykład_3.png

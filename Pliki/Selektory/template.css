@@ -1,0 +1,19 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background: gray;
+    padding: 1px;
+}
+
+#big-box {
+    background-color: orange;
+    width: 550px;
+    height: 550px;
+}
+
+#box-two > div {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
