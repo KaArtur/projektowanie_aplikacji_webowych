@@ -1,0 +1,11 @@
+#bottom-text {
+    position: absolute;
+    top: 1500px;
+    left: 10px;
+}
+
+#bottom-link {
+    position: absolute;
+    top: 1500px;
+    left: 200px;
+}
